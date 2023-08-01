@@ -10,8 +10,8 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Inventori Gudang</title>
-  <link rel="shortcut icon" href="<?=base_url()?>assets/img/dp.jpeg" />
+  <title>Inventori UD. Yudha Kencana</title>
+  <link rel="shortcut icon" href="<?=base_url()?>assets/img/p.jpeg" />
 
   <!-- Custom fonts for this template-->
   <link href="<?php echo base_url()?>assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">

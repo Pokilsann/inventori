@@ -1,6 +1,6 @@
 
 
-<body class="bg-gradient-primary ">
+<body class="bg-gradient-secondary ">
 
   <div class="container">
 
@@ -16,8 +16,8 @@
               <div class="col-lg-12 ">
                 <div class="p-3 ">
                   <div class="text-center">
-                    <h1 class="h4 text-gray-900 mb-4">Inventori Gudang</h1>
-                    <p>Silahkan Login!</p>
+                    <h1 class="h4 text-gray-900 mb-4">Inventori UD. Yudha Kencana</h1>
+                    <p>Login</p>
                     <font color="red"><?php echo $this->session->flashdata('Pesan') ?></font>
                   </div>
                   <form method="post" action="<?php echo base_url('auth/proses_login')?>" class="user">
@@ -30,7 +30,7 @@
                       <?php echo form_error('password', '<div class="text-danger small ml-3">', '</div>') ?>
                     </div>
                     
-                    <button class="btn btn-primary btn-user btn-block">Login</button>
+                    <button class="btn btn-secondary btn-user btn-block">Login</button>
                     <hr>
                   </form>
                 </div>

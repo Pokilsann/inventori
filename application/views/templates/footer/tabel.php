@@ -2,7 +2,7 @@
       <footer class="sticky-footer bg-white">
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
-            <span>Copyright &copy; Sistem Informasi Invetory</span>
+            <span> &copy; UD. Yudha Kencana</span>
           </div>
         </div>
       </footer>

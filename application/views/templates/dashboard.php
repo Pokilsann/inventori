@@ -1,9 +1,7 @@
 <div class="container-fluid">
 	<div class="alert alert-success" role="alert">
 		<p>
-			Selamat Datang <strong><?php echo $this->session->userdata['username']; ?></strong> di Aplikasi Inventory
-			Gudang Toko <i> Dunia
-				Percetakan</i>
+			Selamat Datang <strong><?php echo $this->session->userdata['username']; ?></strong> di Inventori UD. Yudha Kencana
 		</p>
 	</div>
 
